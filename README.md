@@ -60,14 +60,13 @@ python main.py
 * Combining GUI elements with command-line interaction
 * Implementing multiple image transformations in a single application
 
-Some examples are given below to show how it works:
+An example is given below to show how it works:
 ### After the image is loaded:
 ![Load Message](Images/image_load.png)
-### Use the display buttton everytime you want to see the progress:
-![Original](Images/original.png)
+
+## Use the display buttton everytime you want to see the progress
+
 ### Applying Grayscale:
 ![Grayscale](Images/bnw.png)
-### Applying Color Inversion:
-![Color Inversion](Images/inverted.png)
 
 Note: Everytime the display dialog comes in you can close it by pressing any button if you want to do further edits.
