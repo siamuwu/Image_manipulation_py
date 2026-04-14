@@ -62,12 +62,12 @@ python main.py
 
 Some examples are given below to show how it works:
 ### After the image is loaded:
-(Images/image_load.png)
+![Load Message](Images/image_load.png)
 ### Use the display buttton everytime you want to see the progress:
-(Images/original.png)
+![Original](Images/original.png)
 ### Applying Grayscale:
-(Images/bnw.png)
+![Grayscale](Images/bnw.png)
 ### Applying Color Inversion:
-(Images/inverted.png)
+![Color Inversion](Images/inverted.png)
 
 Note: Everytime the display dialog comes in you can close it by pressing any button if you want to do further edits.
