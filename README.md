@@ -1,7 +1,7 @@
 A Python-based image processing application that allows users to perform a variety of image manipulation operations.
 It combines file selection using Tkinter with a menu-driven interface in the terminal to apply different transformations to images.
 
----
+
 
 ## 🛠️ Features
 
@@ -23,7 +23,7 @@ The application supports the following operations:
 14. Add Text to Image
 15. Exit Program
 
----
+
 
 ## 🧰 Technologies Used
 
@@ -60,3 +60,14 @@ python main.py
 * Combining GUI elements with command-line interaction
 * Implementing multiple image transformations in a single application
 
+Some examples are given below to show how it works:
+### After the image is loaded:
+(Images/image_load.png)
+### Use the display buttton everytime you want to see the progress:
+(Images/original.png)
+### Applying Grayscale:
+(Images/bnw.png)
+### Applying Color Inversion:
+(Images/inverted.png)
+
+Note: Everytime the display dialog comes in you can close it by pressing any button if you want to do further edits.
